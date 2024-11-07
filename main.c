@@ -1,6 +1,6 @@
 /*
  * Visualizing Floating-Point Representations
- * Authors: Sean McCarthy - mccaramv@bc.edu | Jao Van Schalkwyk - vanschal@bc.edu
+ * Author: Sean McCarthy - mccaramv@bc.edu
  */
 
 #include "fp_analyzer.h"
